@@ -1,4 +1,4 @@
-# FrontendIntensiveAngular
+# Frontend Intensive Angular (same as frontend intensive, but using Angular)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
